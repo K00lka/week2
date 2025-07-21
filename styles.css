@@ -34,7 +34,9 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  gap: 40px;
 }
+
 
 .hero-text h2 {
   font-size: 48px;
@@ -59,7 +61,11 @@ body {
 }
 
 .hero-image img {
-  width: 300px;
+  max-width: 100%;
   height: auto;
   border-radius: 10px;
+}
+.hero-image {
+  max-width: 300px;
+  flex-shrink: 0;
 }
