@@ -69,17 +69,24 @@ body {
   max-width: 300px;
   flex-shrink: 0;
 }
+ .figures-container {
+    display: flex;
+    justify-content: center;;
+    color:#1F2937;
+    
+ }
 
 
 .pup{
     width: 125px;
     border: #3882F6 solid 2px;
     border-radius: 10px;
-    display:flex;
-    flex-direction: row;
+    
    
 }
 .random{
     padding: 30px;
     text-align: center;
+    font-size: 36px;
+    font-weight: 800;
 }
