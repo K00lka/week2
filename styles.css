@@ -86,8 +86,8 @@ body {
 
 .pup{
     width: 100%;
-    border: #3882F6 solid 2px;
-    border-radius: 10px;
+    border: #3882F6 solid 3px;
+    border-radius: 15px;
     
    
 }
@@ -99,7 +99,7 @@ body {
 }
 .quote{
     background-color: #E5E7EB;
-    padding: 40px 20px;
+    padding: 40px;
     font-size: 36px;
     color: #1F2937;
     
@@ -113,7 +113,7 @@ body {
 .cite {
     text-align: right;
     margin-top: 10px;
-    margin-right: 40px;
+    
     font-size: 20px;
     font-weight: 800;
     display: block;
