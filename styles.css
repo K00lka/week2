@@ -163,3 +163,16 @@ body {
   background-color: #2563eb;
 }
 
+.image-placeholder {
+  width: 300px;
+  height: 200px;
+  background-color: #6c757d; /* muted grey */
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  text-align: center;
+  border-radius: 10px;
+}
+
