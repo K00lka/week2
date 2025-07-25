@@ -48,7 +48,7 @@ body {
   width: 300px;
   height: 200px;
   flex-shrink: 0;
-  display: right;
+  display: flex;
   align-items: center;
   justify-content: center;
 }
