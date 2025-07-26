@@ -37,13 +37,17 @@ body {
 }
 
 .hero-content {
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: nowrap;
-  gap: 40px;
-  max-width: 1200px;
-  margin: 0 auto;
+  margin:auto;
+  padding:10%;
+    
+
 }
 
 .hero-text {
