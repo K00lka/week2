@@ -1,0 +1,13 @@
+.title{
+    font-size: 36px;
+    font-weight: 800;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 20px;
+    text-align: center;
+}
+.policy-list {
+  padding: 20px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
