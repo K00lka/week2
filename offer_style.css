@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.hero {
+  background-color: #1F2937;
+  color: #F9FAF8;
+  padding: 20px 15%;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nav-links a {
+  color: #E5E7EB;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+main {
+  padding: 40px 15%;
+}
+
+.offer {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.offer img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.offer figcaption {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #555;
+}
+
+footer {
+  background-color: #1F2937;
+  color: #E5E7EB;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
