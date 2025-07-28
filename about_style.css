@@ -1,52 +1,4 @@
-/* General Reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-body {
-  font-family: 'Roboto', sans-serif;
-  background-color: #f8f9fa;
-  color: #1a1a1a;
-}
-
-/* Header Styling */
-.hero {
-  background-color: #1f2937;
-  padding: 1.5rem 2rem;
-  color: white;
-}
-
-.nav-wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.logo {
-  font-size: 1.5rem;
-  font-weight: bold;
-}
-
-/* Right-aligned nav links */
-.nav-links {
-  display: flex;
-  gap: 1.5rem;
-}
-
-.nav-links a {
-  color: white;
-  text-decoration: none;
-  font-size: 1rem;
-  transition: color 0.3s ease;
-}
-
-.nav-links a:hover {
-  color: #a5b4fc;
-}
 
 /* Main Content */
 main {
@@ -76,11 +28,4 @@ img.not-the-rock {
   margin: 1rem 0;
 }
 
-/* Footer */
-.footer {
-  background-color: #1f2937;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-  font-size: 0.9rem;
-}
+

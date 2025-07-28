@@ -1,48 +1,4 @@
-/* Reset and base styles */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-body {
-  font-family: 'Roboto', sans-serif;
-  background-color: #f4f4f4;
-  color: #222;
-  line-height: 1.6;
-}
-
-/* Header and Navigation */
-header {
-  background-color: #1f2937;
-  color: #f9faf8;
-  padding: 20px 0;
-}
-
-.nav-wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.logo {
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.nav-links a {
-  color: #e5e7eb;
-  margin-left: 20px;
-  text-decoration: none;
-  font-size: 16px;
-}
-
-.nav-links a:hover {
-  text-decoration: underline;
-}
 
 /* Services Section */
 .services {
@@ -82,11 +38,3 @@ header {
   line-height: 1.4;
 }
 
-/* Footer */
-footer {
-  background-color: #1f2937;
-  color: #e5e7eb;
-  text-align: center;
-  padding: 20px;
-  font-size: 14px;
-}

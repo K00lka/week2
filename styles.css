@@ -31,11 +31,14 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding:1%
   
 }
 
 .logo {
   font-size: 24px;
+  color: #E5E7EB;  
+  text-decoration: none;
 }
 
 .nav-links a {
